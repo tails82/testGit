@@ -1,0 +1,3 @@
+[submodule "tails_common"]
+	path = tails_common
+	url = https://github.com/tails82/tails_common.git
